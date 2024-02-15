@@ -1,6 +1,5 @@
 # To-do-list-website
-In this project I have a created a To-Do-List website which will 
-
+ 
  I have created a user-friendly to-do list website where users can add, edit, and delete tasks. Additionally, implement local storage to save tasks, so they persist even after a page refresh. Here are the project details:
 
 Project Details:
